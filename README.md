@@ -10,7 +10,7 @@ Includes features like **status tracking**, **color-coded tasks**, and **real-ti
 - 🎨 **Color-coded** tasks for quick status identification
 - 📊 **Task Statistics** (Total, Completed, In Progress, Pending)
 - 📅 Start Date and End Date tracking
-- 🖥 **Responsive UI** for desktop and mobile
+- 🖥 **Responsive UI** for desktop 
 - ⚡ **Real-time updates** using API calls
 
 ---
